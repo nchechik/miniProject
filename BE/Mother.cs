@@ -9,7 +9,7 @@ namespace BE
     class Mother
     {
         int x = 0;
-        int f;
+        int f = 0;
        
     }
 }
